@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Vitória Store - Grupo Vip',
+  title: 'Kacyumara - Grupo Vip',
   description: 'Vitória Store - Link para Grupo Vip Whatsapp',
 }
 
